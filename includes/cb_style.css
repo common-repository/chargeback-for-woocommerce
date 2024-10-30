@@ -1,0 +1,118 @@
+.chargeback_plugin_header_container{
+  margin-top: 34px;
+}
+.chargeback_plugin_logo{
+  width: 250px;
+  vertical-align: middle;
+}
+.chargeback_plugin_header{
+  font-size: 18px;
+  color: #1e3044;
+  position: relative;
+  top: 5px;
+}
+
+.chargeback_plugin_clearfix{
+  clear: both;
+}
+
+.chargeback_plugin_main_body {
+  	background-color: #ffffff;
+	border: 2px solid #ffffff;
+	border-radius: 5px;
+	width:92%;
+	margin:20px;
+}
+
+.chargeback_plugin_wbg{
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.chargeback_plugin_wbg h2{
+  color: #1e3044;
+}
+
+.chargeback_plugin_wbg a{
+  text-transform: uppercase;
+  color: #00adf3;
+  text-decoration: none;
+  font-weight: 500;
+}
+.chargeback_plugin_wbg table{
+  border-top: 1px solid #efefef;
+  width: 100%;
+  margin-top: 70px;
+  padding: 10px;
+  padding-bottom: 0px;
+  text-align: right;
+}
+
+.chargeback_plugin_bicon{
+  vertical-align: middle;
+  width: 60px;
+}
+
+.chargeback_plugin_left{
+  float: left;
+  color: #999999;
+  max-width:500px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.chargeback_plugin_right_copy, .chargeback_plugin_right_copy p{
+	font-size:1.2em;
+	text-align: left;
+	line-height: 1.2em;
+}
+
+.chargeback_plugin_right_copy h2{
+	font-size:1.5em;
+	text-align: left;
+}
+ 
+.chargeback_plugin_right_copy li {
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+.chargeback_plugin_cbdemo{
+  width: 90%;
+}
+
+.chargeback_plugin_button{
+  background-color: #00adf3;
+  color: #ffffff !important;
+  padding: 10px;
+  border: 2px solid #00adf3;
+  border-radius: 3px;
+  text-decoration:none;
+}
+
+.chargeback_plugin_button:hover{
+  background-color: #eeeeee;
+  color: #00adf3 !important;
+}
+
+.cta_bottom{
+display:block;
+position:relative;
+padding:10px;
+margin:10px;
+}
+
+.columns {
+    vertical-align: middle;
+    display: block;
+    margin-top: 40px;
+}
+.column {
+    display: inline-block;
+    align-items: center;
+    width: 49%;
+    max-width: 250px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
